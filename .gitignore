@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 # Custom
-*.png
+emb_vis/
+exp_res/
